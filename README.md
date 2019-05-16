@@ -1,7 +1,7 @@
 The code for Dynamic Measurement Scheduling for Event Forecasting using Deep RL (ICML 2019)
 ==============================================
 
-Python code for reproducing the paper's result.
+Python code for reproducing the paper's result. https://arxiv.org/abs/1901.09699
 
 ## Citation
 ```
