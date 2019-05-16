@@ -131,7 +131,9 @@ python train_mgp_rnn.py \
     --neg_subsampled 0
 ```
 
-We keep the other parameters the same as our actual experiment. You can take a look at the resulting summary in classifier_training_and_evaluation/performance/debug_ManyToOneRNN_MIMIC_window.csv
+We keep the other parameters the same as our actual experiment. You can take a look at the resulting summary file in classifier_training_and_evaluation/performance/debug_ManyToOneRNN_MIMIC_window.csv. 
+We also keep our random search result as ManyToOneRNN_MIMIC_window.csv.
+
 
 ### 2. test_baselines.py
 
@@ -214,7 +216,7 @@ For example:
 ```bash
 for seed in 300 200 100; do
     for ac in 0 1e-4 5e-4 1e-3 5e-3 1e-2; do
-    python -u run_sequential_dqn.py --my_identifier 0314_24hrs_rand_ac_and_arch \
+    python -u run_sequential_dqn.py --my_identifier 2_0121 \
     --dqn_cls SequencialDuelingDQN \
     --rand 1 \
     --num_random_run 30 \
@@ -237,6 +239,7 @@ for seed in 300 200 100; do
 done
 ```
 
+You can see our resulting csv file in estimation/2_0121_val_regression_summary.csv
 
 
 ## IV. Train Off-policy policy evaluation regression model
@@ -257,6 +260,9 @@ for seed in 10 20 30; do
 done
 ```
 
+Please see the csv file in estimation/0121_with_larger_training__StateToProbGainPerTimeEstimator.csv to see the random search results.
+
+
 ## V. Evaluate the policy
 
 To evaluate the policy, set the mode as 3.
@@ -270,6 +276,9 @@ python ./run_value_estimator_regression_based.py \
     --cache_dir ../RL_exp_cache/0121-30mins-24hrs-20order-rnn-neg_sampled \
     --reward_estimator_dir ${reward_dir}
 ```
+
+Please see the performance of resulting csv file policy_training_and_evaluation/2_0121_val_regression_summary.csv
+
 
 If you want to estimate random policy performance, we can set the mode to 4. "time_pass_freq_scale_factor" sets how frequent the random policy does. Here is an example to vary it from 0 to 1:
 
@@ -286,7 +295,7 @@ for time_pass_freq_scale_factor in 0 0.05 0.1 0.2 0.3 0.5 0.8 1; do
 done
 ```
 
-Please see the performance of resulting csv file policy_training_and_evaluation/0121_per_time_rand_new_rew_est2.csv
+Please see the performance of resulting csv file policy_training_and_evaluation/2_0122_random_policy__random_policy_evaluation.csv
 
 
 ## VI. evaluation
@@ -302,7 +311,7 @@ Please email my coauthor Mingjie Mai (mingjie.mai [at] mail.utoronto.ca) as he d
 
 # Questions
 
-Please email me (Chun-Hao Kingsley Chang) to kingsley.chang [at] mail.utoronto.ca or just open a github issue. I will try my best to help you reproduce the result.
+Please email me (Chun-Hao Kingsley Chang) to kingsley.chang [at] mail.utoronto.ca or just open a github issue. I will try my best to help you reproduce the result or share the pretrained model.
 
 
 
