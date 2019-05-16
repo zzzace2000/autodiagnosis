@@ -1,0 +1,4 @@
+
+
+class InvalidPatientException(Exception):
+    pass
