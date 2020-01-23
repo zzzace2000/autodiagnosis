@@ -1,0 +1,1 @@
+{"cache_dir": "../RL_exp_cache/0121-30mins-24hrs-20order-rnn-neg_sampled/", "model_type": "StateToProbGainPerTimeEstimator", "lr": 0.001, "keep_prob": 0.7, "reg_constant": 0.0001, "num_shared_layers": 5, "num_sep_layers": 4, "num_hidden_layers": 1, "num_hidden_units": 64, "normalized_file": "../RL_exp_cache/0121-30mins-24hrs-20order-rnn-neg_sampled/state_mean_and_std.csv"}
