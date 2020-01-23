@@ -1,0 +1,1 @@
+{"test_loss": 0.00010081061756779594, "test_reg_loss": 2.0988523064066088e-06, "test_acc": 0.9148361503239012, "test_true_positive": 0.8352635310801229, "test_auroc": 0.94977247133727, "test_aupr": 0.8030357866308705, "best_model_idx": 5, "num_epochs_run": 10}

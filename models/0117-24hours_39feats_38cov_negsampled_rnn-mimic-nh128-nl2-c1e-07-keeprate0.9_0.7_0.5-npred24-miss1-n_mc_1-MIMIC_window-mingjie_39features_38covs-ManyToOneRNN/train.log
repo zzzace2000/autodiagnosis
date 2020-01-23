@@ -1,0 +1,216 @@
+Starting epoch 0
+Batch [50/6450] loss_fit: 1.8e-04 loss_reg: 1.1e-06 avg_acc: 0.692 true_positive: 0.707 time: 0.08s
+Batch [100/6450] loss_fit: 1.8e-04 loss_reg: 1.1e-06 avg_acc: 0.694 true_positive: 0.690 time: 0.05s
+Batch [150/6450] loss_fit: 1.6e-04 loss_reg: 1.1e-06 avg_acc: 0.723 true_positive: 0.699 time: 0.07s
+Batch [200/6450] loss_fit: 1.6e-04 loss_reg: 1.1e-06 avg_acc: 0.733 true_positive: 0.702 time: 0.08s
+Batch [250/6450] loss_fit: 1.5e-04 loss_reg: 1.1e-06 avg_acc: 0.743 true_positive: 0.713 time: 0.05s
+Batch [300/6450] loss_fit: 1.5e-04 loss_reg: 1.1e-06 avg_acc: 0.747 true_positive: 0.719 time: 0.08s
+Batch [350/6450] loss_fit: 1.5e-04 loss_reg: 1.1e-06 avg_acc: 0.744 true_positive: 0.716 time: 0.08s
+Batch [400/6450] loss_fit: 1.5e-04 loss_reg: 1.1e-06 avg_acc: 0.751 true_positive: 0.724 time: 0.05s
+Batch [450/6450] loss_fit: 1.5e-04 loss_reg: 1.1e-06 avg_acc: 0.749 true_positive: 0.722 time: 0.08s
+Batch [500/6450] loss_fit: 1.5e-04 loss_reg: 1.2e-06 avg_acc: 0.755 true_positive: 0.728 time: 0.06s
+Batch [550/6450] loss_fit: 1.4e-04 loss_reg: 1.2e-06 avg_acc: 0.760 true_positive: 0.734 time: 0.08s
+Batch [600/6450] loss_fit: 1.4e-04 loss_reg: 1.2e-06 avg_acc: 0.764 true_positive: 0.737 time: 0.08s
+Batch [650/6450] loss_fit: 1.4e-04 loss_reg: 1.2e-06 avg_acc: 0.768 true_positive: 0.743 time: 0.05s
+Batch [700/6450] loss_fit: 1.4e-04 loss_reg: 1.2e-06 avg_acc: 0.772 true_positive: 0.749 time: 0.08s
+Batch [750/6450] loss_fit: 1.4e-04 loss_reg: 1.2e-06 avg_acc: 0.772 true_positive: 0.750 time: 0.05s
+# Train Set ----------------------------
+Epoch [0/40] loss_fit: 1.4e-04 loss_reg: 1.2e-06 avg_acc: 0.772 true_positive: 0.751
+# Val Set ----------------------------
+Epoch [0/40] loss_fit: 1.3e-04 loss_reg: 1.3e-06 avg_acc: 0.776 true_positive: 0.864 auroc: 0.911 aupr: 0.704
+Spend 99 seconds best aupr: 0.704 in epoch 0
+Starting epoch 1
+Batch [50/6450] loss_fit: 1.8e-04 loss_reg: 1.3e-06 avg_acc: 0.801 true_positive: 0.790 time: 0.08s
+Batch [100/6450] loss_fit: 1.8e-04 loss_reg: 1.3e-06 avg_acc: 0.787 true_positive: 0.773 time: 0.05s
+Batch [150/6450] loss_fit: 1.6e-04 loss_reg: 1.3e-06 avg_acc: 0.797 true_positive: 0.791 time: 0.08s
+Batch [200/6450] loss_fit: 1.5e-04 loss_reg: 1.3e-06 avg_acc: 0.798 true_positive: 0.799 time: 0.08s
+Batch [250/6450] loss_fit: 1.5e-04 loss_reg: 1.3e-06 avg_acc: 0.806 true_positive: 0.802 time: 0.07s
+Batch [300/6450] loss_fit: 1.5e-04 loss_reg: 1.4e-06 avg_acc: 0.810 true_positive: 0.805 time: 0.08s
+Batch [350/6450] loss_fit: 1.4e-04 loss_reg: 1.4e-06 avg_acc: 0.818 true_positive: 0.813 time: 0.09s
+Batch [400/6450] loss_fit: 1.4e-04 loss_reg: 1.4e-06 avg_acc: 0.818 true_positive: 0.813 time: 0.08s
+Batch [450/6450] loss_fit: 1.3e-04 loss_reg: 1.4e-06 avg_acc: 0.818 true_positive: 0.812 time: 0.08s
+Batch [500/6450] loss_fit: 1.6e-04 loss_reg: 1.4e-06 avg_acc: 0.818 true_positive: 0.809 time: 0.08s
+Batch [550/6450] loss_fit: 1.6e-04 loss_reg: 1.4e-06 avg_acc: 0.821 true_positive: 0.809 time: 0.07s
+Batch [600/6450] loss_fit: 1.5e-04 loss_reg: 1.4e-06 avg_acc: 0.821 true_positive: 0.804 time: 0.08s
+Batch [650/6450] loss_fit: 1.5e-04 loss_reg: 1.4e-06 avg_acc: 0.821 true_positive: 0.803 time: 0.07s
+Batch [700/6450] loss_fit: 1.5e-04 loss_reg: 1.4e-06 avg_acc: 0.818 true_positive: 0.793 time: 0.09s
+Batch [750/6450] loss_fit: 1.5e-04 loss_reg: 1.4e-06 avg_acc: 0.817 true_positive: 0.793 time: 0.08s
+# Train Set ----------------------------
+Epoch [1/40] loss_fit: 1.5e-04 loss_reg: 1.4e-06 avg_acc: 0.816 true_positive: 0.793
+# Val Set ----------------------------
+Epoch [1/40] loss_fit: 1.2e-04 loss_reg: 1.5e-06 avg_acc: 0.872 true_positive: 0.781 auroc: 0.917 aupr: 0.715
+Spend 102 seconds best aupr: 0.715 in epoch 1
+Starting epoch 2
+Batch [50/6450] loss_fit: 1.0e-04 loss_reg: 1.5e-06 avg_acc: 0.839 true_positive: 0.793 time: 0.08s
+Batch [100/6450] loss_fit: 1.2e-04 loss_reg: 1.5e-06 avg_acc: 0.820 true_positive: 0.750 time: 0.05s
+Batch [150/6450] loss_fit: 1.2e-04 loss_reg: 1.5e-06 avg_acc: 0.822 true_positive: 0.768 time: 0.08s
+Batch [200/6450] loss_fit: 1.2e-04 loss_reg: 1.5e-06 avg_acc: 0.834 true_positive: 0.790 time: 0.06s
+Batch [250/6450] loss_fit: 1.1e-04 loss_reg: 1.5e-06 avg_acc: 0.839 true_positive: 0.800 time: 0.08s
+Batch [300/6450] loss_fit: 1.1e-04 loss_reg: 1.5e-06 avg_acc: 0.840 true_positive: 0.802 time: 0.06s
+Batch [350/6450] loss_fit: 1.1e-04 loss_reg: 1.5e-06 avg_acc: 0.841 true_positive: 0.800 time: 0.07s
+Batch [400/6450] loss_fit: 1.1e-04 loss_reg: 1.6e-06 avg_acc: 0.842 true_positive: 0.802 time: 0.06s
+Batch [450/6450] loss_fit: 1.1e-04 loss_reg: 1.6e-06 avg_acc: 0.837 true_positive: 0.801 time: 0.08s
+Batch [500/6450] loss_fit: 1.1e-04 loss_reg: 1.6e-06 avg_acc: 0.839 true_positive: 0.803 time: 0.05s
+Batch [550/6450] loss_fit: 1.1e-04 loss_reg: 1.6e-06 avg_acc: 0.841 true_positive: 0.804 time: 0.08s
+Batch [600/6450] loss_fit: 1.1e-04 loss_reg: 1.6e-06 avg_acc: 0.842 true_positive: 0.806 time: 0.07s
+Batch [650/6450] loss_fit: 1.1e-04 loss_reg: 1.6e-06 avg_acc: 0.843 true_positive: 0.807 time: 0.06s
+Batch [700/6450] loss_fit: 1.2e-04 loss_reg: 1.6e-06 avg_acc: 0.843 true_positive: 0.806 time: 0.07s
+Batch [750/6450] loss_fit: 1.2e-04 loss_reg: 1.6e-06 avg_acc: 0.843 true_positive: 0.807 time: 0.07s
+# Train Set ----------------------------
+Epoch [2/40] loss_fit: 1.2e-04 loss_reg: 1.6e-06 avg_acc: 0.843 true_positive: 0.807
+# Val Set ----------------------------
+Epoch [2/40] loss_fit: 9.9e-05 loss_reg: 1.6e-06 avg_acc: 0.874 true_positive: 0.856 auroc: 0.940 aupr: 0.766
+Spend 96 seconds best aupr: 0.766 in epoch 2
+Starting epoch 3
+Batch [50/6450] loss_fit: 8.0e-05 loss_reg: 1.6e-06 avg_acc: 0.870 true_positive: 0.844 time: 0.06s
+Batch [100/6450] loss_fit: 8.1e-05 loss_reg: 1.6e-06 avg_acc: 0.871 true_positive: 0.844 time: 0.07s
+Batch [150/6450] loss_fit: 8.7e-05 loss_reg: 1.6e-06 avg_acc: 0.854 true_positive: 0.821 time: 0.06s
+Batch [200/6450] loss_fit: 1.0e-04 loss_reg: 1.6e-06 avg_acc: 0.853 true_positive: 0.831 time: 0.09s
+Batch [250/6450] loss_fit: 1.1e-04 loss_reg: 1.7e-06 avg_acc: 0.850 true_positive: 0.829 time: 0.08s
+Batch [300/6450] loss_fit: 1.0e-04 loss_reg: 1.7e-06 avg_acc: 0.852 true_positive: 0.831 time: 0.06s
+Batch [350/6450] loss_fit: 1.1e-04 loss_reg: 1.7e-06 avg_acc: 0.850 true_positive: 0.835 time: 0.04s
+Batch [400/6450] loss_fit: 1.1e-04 loss_reg: 1.7e-06 avg_acc: 0.851 true_positive: 0.835 time: 0.06s
+Batch [450/6450] loss_fit: 1.1e-04 loss_reg: 1.7e-06 avg_acc: 0.852 true_positive: 0.835 time: 0.08s
+Batch [500/6450] loss_fit: 1.0e-04 loss_reg: 1.7e-06 avg_acc: 0.852 true_positive: 0.835 time: 0.05s
+Batch [550/6450] loss_fit: 1.1e-04 loss_reg: 1.7e-06 avg_acc: 0.852 true_positive: 0.834 time: 0.08s
+Batch [600/6450] loss_fit: 1.1e-04 loss_reg: 1.7e-06 avg_acc: 0.849 true_positive: 0.830 time: 0.08s
+Batch [650/6450] loss_fit: 1.1e-04 loss_reg: 1.7e-06 avg_acc: 0.849 true_positive: 0.831 time: 0.08s
+Batch [700/6450] loss_fit: 1.1e-04 loss_reg: 1.7e-06 avg_acc: 0.849 true_positive: 0.832 time: 0.09s
+Batch [750/6450] loss_fit: 1.2e-04 loss_reg: 1.7e-06 avg_acc: 0.848 true_positive: 0.828 time: 0.09s
+# Train Set ----------------------------
+Epoch [3/40] loss_fit: 1.2e-04 loss_reg: 1.7e-06 avg_acc: 0.848 true_positive: 0.828
+# Val Set ----------------------------
+Epoch [3/40] loss_fit: 6.5e-05 loss_reg: 1.8e-06 avg_acc: 0.936 true_positive: 0.675 auroc: 0.937 aupr: 0.750
+Spend 95 seconds best aupr: 0.766 in epoch 2
+Starting epoch 4
+Batch [50/6450] loss_fit: 9.4e-05 loss_reg: 1.8e-06 avg_acc: 0.872 true_positive: 0.804 time: 0.06s
+Batch [100/6450] loss_fit: 8.7e-05 loss_reg: 1.9e-06 avg_acc: 0.878 true_positive: 0.840 time: 0.07s
+Batch [150/6450] loss_fit: 8.5e-05 loss_reg: 1.9e-06 avg_acc: 0.880 true_positive: 0.851 time: 0.06s
+Batch [200/6450] loss_fit: 9.1e-05 loss_reg: 1.9e-06 avg_acc: 0.870 true_positive: 0.841 time: 0.08s
+Batch [250/6450] loss_fit: 9.3e-05 loss_reg: 1.9e-06 avg_acc: 0.862 true_positive: 0.836 time: 0.09s
+Batch [300/6450] loss_fit: 9.4e-05 loss_reg: 1.9e-06 avg_acc: 0.859 true_positive: 0.843 time: 0.08s
+Batch [350/6450] loss_fit: 9.8e-05 loss_reg: 1.9e-06 avg_acc: 0.855 true_positive: 0.836 time: 0.06s
+Batch [400/6450] loss_fit: 9.6e-05 loss_reg: 1.9e-06 avg_acc: 0.856 true_positive: 0.836 time: 0.08s
+Batch [450/6450] loss_fit: 1.0e-04 loss_reg: 1.9e-06 avg_acc: 0.855 true_positive: 0.834 time: 0.08s
+Batch [500/6450] loss_fit: 1.0e-04 loss_reg: 1.9e-06 avg_acc: 0.855 true_positive: 0.831 time: 0.06s
+Batch [550/6450] loss_fit: 1.0e-04 loss_reg: 1.9e-06 avg_acc: 0.855 true_positive: 0.831 time: 0.08s
+Batch [600/6450] loss_fit: 1.0e-04 loss_reg: 1.9e-06 avg_acc: 0.856 true_positive: 0.831 time: 0.05s
+Batch [650/6450] loss_fit: 1.0e-04 loss_reg: 1.9e-06 avg_acc: 0.855 true_positive: 0.824 time: 0.08s
+Batch [700/6450] loss_fit: 1.1e-04 loss_reg: 1.9e-06 avg_acc: 0.855 true_positive: 0.823 time: 0.08s
+Batch [750/6450] loss_fit: 1.0e-04 loss_reg: 1.9e-06 avg_acc: 0.856 true_positive: 0.825 time: 0.05s
+# Train Set ----------------------------
+Epoch [4/40] loss_fit: 1.1e-04 loss_reg: 1.9e-06 avg_acc: 0.856 true_positive: 0.825
+# Val Set ----------------------------
+Epoch [4/40] loss_fit: 6.9e-05 loss_reg: 2.0e-06 avg_acc: 0.930 true_positive: 0.733 auroc: 0.941 aupr: 0.775
+Spend 97 seconds best aupr: 0.775 in epoch 4
+Starting epoch 5
+Batch [50/6450] loss_fit: 8.4e-05 loss_reg: 2.0e-06 avg_acc: 0.878 true_positive: 0.856 time: 0.05s
+Batch [100/6450] loss_fit: 8.5e-05 loss_reg: 2.0e-06 avg_acc: 0.869 true_positive: 0.846 time: 0.06s
+Batch [150/6450] loss_fit: 9.9e-05 loss_reg: 2.0e-06 avg_acc: 0.861 true_positive: 0.843 time: 0.05s
+Batch [200/6450] loss_fit: 1.0e-04 loss_reg: 2.1e-06 avg_acc: 0.857 true_positive: 0.840 time: 0.05s
+Batch [250/6450] loss_fit: 1.0e-04 loss_reg: 2.1e-06 avg_acc: 0.855 true_positive: 0.840 time: 0.06s
+Batch [300/6450] loss_fit: 1.0e-04 loss_reg: 2.1e-06 avg_acc: 0.857 true_positive: 0.846 time: 0.07s
+Batch [350/6450] loss_fit: 1.0e-04 loss_reg: 2.1e-06 avg_acc: 0.858 true_positive: 0.838 time: 0.08s
+Batch [400/6450] loss_fit: 9.7e-05 loss_reg: 2.1e-06 avg_acc: 0.861 true_positive: 0.843 time: 0.09s
+Batch [450/6450] loss_fit: 9.9e-05 loss_reg: 2.1e-06 avg_acc: 0.862 true_positive: 0.843 time: 0.08s
+Batch [500/6450] loss_fit: 9.8e-05 loss_reg: 2.1e-06 avg_acc: 0.863 true_positive: 0.846 time: 0.07s
+Batch [550/6450] loss_fit: 9.7e-05 loss_reg: 2.1e-06 avg_acc: 0.863 true_positive: 0.848 time: 0.08s
+Batch [600/6450] loss_fit: 9.8e-05 loss_reg: 2.1e-06 avg_acc: 0.862 true_positive: 0.843 time: 0.07s
+Batch [650/6450] loss_fit: 9.6e-05 loss_reg: 2.1e-06 avg_acc: 0.864 true_positive: 0.846 time: 0.07s
+Batch [700/6450] loss_fit: 9.5e-05 loss_reg: 2.1e-06 avg_acc: 0.864 true_positive: 0.847 time: 0.05s
+Batch [750/6450] loss_fit: 9.5e-05 loss_reg: 2.1e-06 avg_acc: 0.863 true_positive: 0.845 time: 0.08s
+# Train Set ----------------------------
+Epoch [5/40] loss_fit: 9.5e-05 loss_reg: 2.1e-06 avg_acc: 0.863 true_positive: 0.845
+# Val Set ----------------------------
+Epoch [5/40] loss_fit: 9.2e-05 loss_reg: 2.1e-06 avg_acc: 0.913 true_positive: 0.803 auroc: 0.941 aupr: 0.781
+Spend 94 seconds best aupr: 0.781 in epoch 5
+Starting epoch 6
+Batch [50/6450] loss_fit: 7.6e-05 loss_reg: 2.1e-06 avg_acc: 0.893 true_positive: 0.868 time: 0.08s
+Batch [100/6450] loss_fit: 1.4e-04 loss_reg: 2.1e-06 avg_acc: 0.873 true_positive: 0.862 time: 0.06s
+Batch [150/6450] loss_fit: 1.2e-04 loss_reg: 2.1e-06 avg_acc: 0.865 true_positive: 0.866 time: 0.05s
+Batch [200/6450] loss_fit: 1.2e-04 loss_reg: 2.1e-06 avg_acc: 0.867 true_positive: 0.865 time: 0.07s
+Batch [250/6450] loss_fit: 1.1e-04 loss_reg: 2.1e-06 avg_acc: 0.867 true_positive: 0.862 time: 0.05s
+Batch [300/6450] loss_fit: 1.1e-04 loss_reg: 2.1e-06 avg_acc: 0.870 true_positive: 0.863 time: 0.05s
+Batch [350/6450] loss_fit: 1.1e-04 loss_reg: 2.2e-06 avg_acc: 0.863 true_positive: 0.848 time: 0.05s
+Batch [400/6450] loss_fit: 1.1e-04 loss_reg: 2.2e-06 avg_acc: 0.865 true_positive: 0.853 time: 0.06s
+Batch [450/6450] loss_fit: 1.1e-04 loss_reg: 2.2e-06 avg_acc: 0.863 true_positive: 0.849 time: 0.09s
+Batch [500/6450] loss_fit: 1.1e-04 loss_reg: 2.2e-06 avg_acc: 0.864 true_positive: 0.852 time: 0.07s
+Batch [550/6450] loss_fit: 1.1e-04 loss_reg: 2.2e-06 avg_acc: 0.863 true_positive: 0.850 time: 0.08s
+Batch [600/6450] loss_fit: 1.1e-04 loss_reg: 2.2e-06 avg_acc: 0.861 true_positive: 0.850 time: 0.08s
+Batch [650/6450] loss_fit: 1.0e-04 loss_reg: 2.2e-06 avg_acc: 0.861 true_positive: 0.849 time: 0.08s
+Batch [700/6450] loss_fit: 1.0e-04 loss_reg: 2.2e-06 avg_acc: 0.862 true_positive: 0.849 time: 0.08s
+Batch [750/6450] loss_fit: 1.1e-04 loss_reg: 2.2e-06 avg_acc: 0.860 true_positive: 0.848 time: 0.08s
+# Train Set ----------------------------
+Epoch [6/40] loss_fit: 1.1e-04 loss_reg: 2.2e-06 avg_acc: 0.859 true_positive: 0.847
+# Val Set ----------------------------
+Epoch [6/40] loss_fit: 1.7e-04 loss_reg: 2.4e-06 avg_acc: 0.478 true_positive: 0.973 auroc: 0.930 aupr: 0.775
+Spend 97 seconds best aupr: 0.781 in epoch 5
+Starting epoch 7
+Batch [50/6450] loss_fit: 1.7e-04 loss_reg: 2.4e-06 avg_acc: 0.865 true_positive: 0.825 time: 0.06s
+Batch [100/6450] loss_fit: 1.9e-04 loss_reg: 2.4e-06 avg_acc: 0.857 true_positive: 0.815 time: 0.08s
+Batch [150/6450] loss_fit: 2.0e-04 loss_reg: 2.4e-06 avg_acc: 0.848 true_positive: 0.815 time: 0.09s
+Batch [200/6450] loss_fit: 1.7e-04 loss_reg: 2.4e-06 avg_acc: 0.857 true_positive: 0.823 time: 0.05s
+Batch [250/6450] loss_fit: 1.5e-04 loss_reg: 2.5e-06 avg_acc: 0.863 true_positive: 0.830 time: 0.06s
+Batch [300/6450] loss_fit: 1.5e-04 loss_reg: 2.5e-06 avg_acc: 0.862 true_positive: 0.835 time: 0.07s
+Batch [350/6450] loss_fit: 1.4e-04 loss_reg: 2.5e-06 avg_acc: 0.858 true_positive: 0.829 time: 0.05s
+Batch [400/6450] loss_fit: 1.4e-04 loss_reg: 2.5e-06 avg_acc: 0.862 true_positive: 0.836 time: 0.06s
+Batch [450/6450] loss_fit: 1.3e-04 loss_reg: 2.5e-06 avg_acc: 0.862 true_positive: 0.836 time: 0.06s
+Batch [500/6450] loss_fit: 1.2e-04 loss_reg: 2.5e-06 avg_acc: 0.863 true_positive: 0.839 time: 0.07s
+Batch [550/6450] loss_fit: 1.2e-04 loss_reg: 2.5e-06 avg_acc: 0.865 true_positive: 0.840 time: 0.08s
+Batch [600/6450] loss_fit: 1.3e-04 loss_reg: 2.5e-06 avg_acc: 0.866 true_positive: 0.842 time: 0.08s
+Batch [650/6450] loss_fit: 1.3e-04 loss_reg: 2.5e-06 avg_acc: 0.865 true_positive: 0.845 time: 0.08s
+Batch [700/6450] loss_fit: 1.3e-04 loss_reg: 2.5e-06 avg_acc: 0.864 true_positive: 0.845 time: 0.05s
+Batch [750/6450] loss_fit: 1.3e-04 loss_reg: 2.5e-06 avg_acc: 0.863 true_positive: 0.841 time: 0.08s
+# Train Set ----------------------------
+Epoch [7/40] loss_fit: 1.3e-04 loss_reg: 2.5e-06 avg_acc: 0.861 true_positive: 0.841
+# Val Set ----------------------------
+Epoch [7/40] loss_fit: 1.4e-04 loss_reg: 2.6e-06 avg_acc: 0.762 true_positive: 0.921 auroc: 0.927 aupr: 0.709
+Spend 94 seconds best aupr: 0.781 in epoch 5
+Starting epoch 8
+Batch [50/6450] loss_fit: 1.1e-04 loss_reg: 2.6e-06 avg_acc: 0.848 true_positive: 0.869 time: 0.05s
+Batch [100/6450] loss_fit: 1.1e-04 loss_reg: 2.6e-06 avg_acc: 0.843 true_positive: 0.872 time: 0.05s
+Batch [150/6450] loss_fit: 1.1e-04 loss_reg: 2.6e-06 avg_acc: 0.846 true_positive: 0.868 time: 0.08s
+Batch [200/6450] loss_fit: 1.0e-04 loss_reg: 2.6e-06 avg_acc: 0.846 true_positive: 0.869 time: 0.06s
+Batch [250/6450] loss_fit: 1.0e-04 loss_reg: 2.6e-06 avg_acc: 0.844 true_positive: 0.860 time: 0.05s
+Batch [300/6450] loss_fit: 9.7e-05 loss_reg: 2.6e-06 avg_acc: 0.848 true_positive: 0.863 time: 0.06s
+Batch [350/6450] loss_fit: 9.9e-05 loss_reg: 2.6e-06 avg_acc: 0.851 true_positive: 0.866 time: 0.08s
+Batch [400/6450] loss_fit: 1.1e-04 loss_reg: 2.6e-06 avg_acc: 0.851 true_positive: 0.865 time: 0.08s
+Batch [450/6450] loss_fit: 1.1e-04 loss_reg: 2.6e-06 avg_acc: 0.854 true_positive: 0.866 time: 0.08s
+Batch [500/6450] loss_fit: 1.1e-04 loss_reg: 2.6e-06 avg_acc: 0.854 true_positive: 0.865 time: 0.08s
+Batch [550/6450] loss_fit: 1.1e-04 loss_reg: 2.6e-06 avg_acc: 0.854 true_positive: 0.866 time: 0.08s
+Batch [600/6450] loss_fit: 1.1e-04 loss_reg: 2.6e-06 avg_acc: 0.858 true_positive: 0.868 time: 0.08s
+Batch [650/6450] loss_fit: 1.1e-04 loss_reg: 2.6e-06 avg_acc: 0.858 true_positive: 0.868 time: 0.08s
+Batch [700/6450] loss_fit: 1.2e-04 loss_reg: 2.6e-06 avg_acc: 0.858 true_positive: 0.867 time: 0.08s
+Batch [750/6450] loss_fit: 1.2e-04 loss_reg: 2.6e-06 avg_acc: 0.859 true_positive: 0.868 time: 0.07s
+# Train Set ----------------------------
+Epoch [8/40] loss_fit: 1.2e-04 loss_reg: 2.6e-06 avg_acc: 0.860 true_positive: 0.868
+# Val Set ----------------------------
+Epoch [8/40] loss_fit: 9.9e-05 loss_reg: 2.6e-06 avg_acc: 0.883 true_positive: 0.857 auroc: 0.942 aupr: 0.777
+Spend 96 seconds best aupr: 0.781 in epoch 5
+Starting epoch 9
+Batch [50/6450] loss_fit: 1.5e-04 loss_reg: 2.6e-06 avg_acc: 0.867 true_positive: 0.849 time: 0.08s
+Batch [100/6450] loss_fit: 1.1e-04 loss_reg: 2.6e-06 avg_acc: 0.867 true_positive: 0.849 time: 0.05s
+Batch [150/6450] loss_fit: 1.0e-04 loss_reg: 2.6e-06 avg_acc: 0.876 true_positive: 0.859 time: 0.06s
+Batch [200/6450] loss_fit: 1.1e-04 loss_reg: 2.6e-06 avg_acc: 0.878 true_positive: 0.866 time: 0.08s
+Batch [250/6450] loss_fit: 1.0e-04 loss_reg: 2.6e-06 avg_acc: 0.876 true_positive: 0.864 time: 0.08s
+Batch [300/6450] loss_fit: 1.0e-04 loss_reg: 2.6e-06 avg_acc: 0.877 true_positive: 0.866 time: 0.05s
+Batch [350/6450] loss_fit: 9.7e-05 loss_reg: 2.6e-06 avg_acc: 0.876 true_positive: 0.867 time: 0.05s
+Batch [400/6450] loss_fit: 9.6e-05 loss_reg: 2.6e-06 avg_acc: 0.878 true_positive: 0.867 time: 0.05s
+Batch [450/6450] loss_fit: 9.9e-05 loss_reg: 2.6e-06 avg_acc: 0.878 true_positive: 0.867 time: 0.05s
+Batch [500/6450] loss_fit: 1.0e-04 loss_reg: 2.6e-06 avg_acc: 0.877 true_positive: 0.865 time: 0.06s
+Batch [550/6450] loss_fit: 9.9e-05 loss_reg: 2.6e-06 avg_acc: 0.878 true_positive: 0.866 time: 0.05s
+Batch [600/6450] loss_fit: 9.7e-05 loss_reg: 2.6e-06 avg_acc: 0.879 true_positive: 0.867 time: 0.08s
+Batch [650/6450] loss_fit: 9.7e-05 loss_reg: 2.6e-06 avg_acc: 0.876 true_positive: 0.865 time: 0.06s
+Batch [700/6450] loss_fit: 9.6e-05 loss_reg: 2.6e-06 avg_acc: 0.875 true_positive: 0.862 time: 0.08s
+Batch [750/6450] loss_fit: 9.8e-05 loss_reg: 2.6e-06 avg_acc: 0.874 true_positive: 0.863 time: 0.05s
+# Train Set ----------------------------
+Epoch [9/40] loss_fit: 9.9e-05 loss_reg: 2.6e-06 avg_acc: 0.875 true_positive: 0.863
+# Val Set ----------------------------
+Epoch [9/40] loss_fit: 1.0e-04 loss_reg: 2.6e-06 avg_acc: 0.872 true_positive: 0.870 auroc: 0.942 aupr: 0.780
+Spend 91 seconds best aupr: 0.781 in epoch 5
+Restore the best model from epoch 5
+Start evluating in test set...
+# Test Set ----------------------------
+Epoch [0/0] loss_fit: 1.0e-04 loss_reg: 2.1e-06 avg_acc: 0.915 true_positive: 0.835 auroc: 0.950 aupr: 0.803
+Spend 43 seconds
+done
