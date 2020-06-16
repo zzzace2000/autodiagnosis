@@ -5,11 +5,11 @@ Python code for reproducing the paper's result. https://arxiv.org/abs/1901.09699
 
 ## Citation
 ```
-@article{chang2019dynamic,
-  title={Dynamic Measurement Scheduling for Event Forecasting using Deep RL},
+@article{chang2018dynamic,
+  title={Dynamic measurement scheduling for adverse event forecasting using deep RL},
   author={Chang, Chun-Hao and Mai, Mingjie and Goldenberg, Anna},
-  booktitle={International Conference on Learning Representations},
-  year={2019}
+  journal={arXiv preprint arXiv:1812.00268},
+  year={2018}
 }
 ```
 
